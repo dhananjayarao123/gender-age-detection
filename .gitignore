@@ -1,0 +1,9 @@
+models/*.caffemodel
+models/*.pb
+__pycache__/
+*.pyc
+*.avi
+*.mp4
+results*.csv
+venv/
+.env/
